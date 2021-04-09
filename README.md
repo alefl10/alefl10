@@ -6,9 +6,9 @@ I was born and raised in Spain 🇪🇸 but I moved to the USA 🇺🇸 where I 
 
 ***
 
-- 💬 I love learning new languages (Spanish, English, Italian down... French 🇫🇷 you're next!)
+- 💬 I love learning new languages
 - 🍝 Wannabe Chef in my spare time
-- 💻 You can always catch me working on some React, Flutter or NodeJS project
+- 💻 You can always catch me working on some Flutter, React, or NodeJS project
 - ☕️ Coffee and coding. Name a better duo, I'll wait...
 - ⚽️ Soccer, 🏓 Ping Pong and ⛳️ Golf are my perfect trifecta
 - 🧳 I'm a guy attached to a suitcase. Any trip suggestions?
