@@ -4,9 +4,9 @@
 
 ***
 
-- 🇪🇸 Born & Raised
-- 🇺🇸 BSc Electrical-Electronics Engineering | Gannon University
-- 🇮🇹 MSc Computer Science & Engineering | Politecnico di Milano
+- 🇪🇸  Born & Raised
+- 🇺🇸  BSc Electrical-Electronics Engineering | Gannon University
+- 🇮🇹  MSc Computer Science & Engineering | Politecnico di Milano
 
 ***
 
