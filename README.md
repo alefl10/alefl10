@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🦄 I'm a Software Engineering Intern at [Very Good Ventures](https://verygood.ventures/)
+🦄 I'm a Software Engineering at [Very Good Ventures](https://verygood.ventures/)
+
+[![image](https://user-images.githubusercontent.com/25061049/173285397-d2958d11-a95e-4de9-a8f4-44ea61f33bf7.png)](https://verygood.ventures/)
 
 ***
 
