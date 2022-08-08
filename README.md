@@ -12,7 +12,7 @@
 
 ***
 
-- 💻 You can always catch me working on some Flutter, React, or NodeJS project
+- 💙 Flutter
 - ☕️ Coffee and coding. Name a better duo, I'll wait...
 - ⚽️ Soccer, 🏓 Ping Pong and ⛳️ Golf are my perfect sports trifecta
 - 💬 I love learning new languages
