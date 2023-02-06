@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-🦄 I'm a Software Engineer at [Very Good Ventures](https://verygood.ventures/)
+🦄 I'm a Mobile Developer at [iVisa](https://www.ivisa.com/)
 
-[![image](https://user-images.githubusercontent.com/25061049/173285397-d2958d11-a95e-4de9-a8f4-44ea61f33bf7.png)](https://verygood.ventures/)
+![iVisa Banner](https://user-images.githubusercontent.com/25061049/217016636-a416b826-2d63-4b8b-aa0c-05b89cf0f5c7.png)
 
-***
 
 - 🇪🇸  Born & Raised
 - 🇺🇸  BSc Electrical-Electronics Engineering | Gannon University
