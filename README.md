@@ -2,13 +2,13 @@
 
 🌎 I'm a Mobile Developer at [iVisa](https://www.ivisa.com/)
 
-![iVisa Banner](https://user-images.githubusercontent.com/25061049/217016636-a416b826-2d63-4b8b-aa0c-05b89cf0f5c7.png)
+![iVisa Banner](https://github.com/alefl10/alefl10/assets/25061049/dc979f95-ce56-4660-a454-8795a4c82701)
 
 
 - 🇪🇸  Born & Raised
 - 🇺🇸  BSc Electrical-Electronics Engineering | Gannon University
 - 🇮🇹  MSc Computer Science & Engineering | Politecnico di Milano
-- 🇦🇩  Living my best Life
+- 🇦🇩  Living my best life
 
 ***
 
