@@ -2,7 +2,7 @@
 
 🌎 I'm the Lead Mobile Developer at [iVisa](https://www.ivisa.com/)
 
-![iVisa Banner](https://github.com/alefl10/alefl10/assets/25061049/dc979f95-ce56-4660-a454-8795a4c82701)
+![Copy of V2](https://github.com/alefl10/alefl10/assets/25061049/b781d23b-bba7-4308-8665-38c126b3e5cc)
 
 
 - 🇪🇸  Born & Raised
