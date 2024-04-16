@@ -13,6 +13,7 @@
 ***
 
 - 💙 Flutter
+- 🤤 Founder of [Foodium](https://link.foodium.app/cyrJ/gha) 
 - ☕️ Coffee and coding. Name a better duo, I'll wait...
 - ⚽️ Soccer, ⛳️ Golf and 🏓 Ping Pong are my perfect sports trifecta
 - 💬 I love learning new languages
