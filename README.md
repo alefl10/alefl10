@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌎 I'm the Mobile Development Manager at [iVisa](https://www.ivisa.com/)
+🌎 I'm the Director of Product at [iVisa](https://www.ivisa.com/)
 
 ![Copy of V2](https://github.com/alefl10/alefl10/assets/25061049/b781d23b-bba7-4308-8665-38c126b3e5cc)
 
